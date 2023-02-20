@@ -1,2 +1,2 @@
 # room
-Voice recognition assistant for desktop
+MIT Maker portfolio. A sword that inside has an ESP32 with voice recognition so it can do somethings like feed the dog....
